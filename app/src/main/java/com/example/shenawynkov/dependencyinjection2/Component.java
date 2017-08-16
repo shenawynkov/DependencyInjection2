@@ -3,7 +3,7 @@ package com.example.shenawynkov.dependencyinjection2;
 import javax.inject.Singleton;
 
 /**
- * Created by smahmoud on 8/16/2017.
+ * Created by Shenawynkov on 8/16/2017.
  */
 @Singleton
 @dagger.Component (modules = computationModule.class)

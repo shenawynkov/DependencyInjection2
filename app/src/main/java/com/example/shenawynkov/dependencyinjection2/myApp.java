@@ -5,7 +5,7 @@ import android.app.Application;
 
 
 /**
- * Created by smahmoud on 8/16/2017.
+ * Created by Shenawynkov on 8/16/2017.
  */
 
 public class myApp extends Application {
